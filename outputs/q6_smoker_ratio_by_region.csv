@@ -1,0 +1,5 @@
+region,policyholders,smokers,non_smokers,avg_smoker_charge,avg_non_smoker_charge,smoker_cost_ratio
+southeast,364,91,273,34845.0,8032.22,4.34
+southwest,325,58,267,32269.06,8019.28,4.02
+northwest,325,58,267,30192.0,8556.46,3.53
+northeast,324,67,257,29673.54,9165.53,3.24

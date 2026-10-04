@@ -1,0 +1,5 @@
+region,policyholders,total_charges,avg_charge,min_charge,max_charge
+southeast,364,5363689.76,14735.41,1121.87,63770.43
+northeast,324,4343668.58,13406.38,1694.8,58571.07
+northwest,325,4035712.0,12417.58,1621.34,60021.4
+southwest,325,4012754.65,12346.94,1241.57,52590.83

@@ -1,0 +1,9 @@
+region,smoker,policyholders,total_charges,avg_charge
+southeast,yes,91,3170894.71,34845.0
+southwest,yes,58,1871605.68,32269.06
+northwest,yes,58,1751136.18,30192.0
+northeast,yes,67,1988126.94,29673.54
+northeast,no,257,2355541.64,9165.53
+northwest,no,267,2284575.81,8556.46
+southeast,no,273,2192795.05,8032.22
+southwest,no,267,2141148.96,8019.28

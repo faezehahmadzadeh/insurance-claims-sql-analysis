@@ -1,0 +1,3 @@
+smoker,policyholders,total_charges,avg_charge,min_charge,max_charge
+yes,274,8781763.52,32050.23,12829.46,63770.43
+no,1064,8974061.47,8434.27,1121.87,36910.61
